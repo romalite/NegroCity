@@ -7,13 +7,11 @@
             "photo_url": "https://images.ctfassets.net/hrltx12pl8hq/5596z2BCR9KmT1KeRBrOQa/4070fd4e2f1a13f71c2c46afeb18e41c/shutterstock_451077043-hero1.jpg?fit=fill&w=800&h=300",
             "balance": 1500,
         }
-
-        {
-            "Products": "Mainez",
-            "Products": "kaba4ok",
-            "Products": "Kolbaca",
-        }
-
+        "Products": [
+            "mainez",
+            "ket4yp",
+            "kaba40k",
+        ]
         {   
             "id":2,
             "name": "Titan",
