@@ -7,5 +7,13 @@
             "photo_url": "https://images.ctfassets.net/hrltx12pl8hq/5596z2BCR9KmT1KeRBrOQa/4070fd4e2f1a13f71c2c46afeb18e41c/shutterstock_451077043-hero1.jpg?fit=fill&w=800&h=300",
             "balance": 1500
         }
+
+        {   
+            "id":2,
+            "name": "Titan",
+            "sirname": "Rtx",
+            "photo_url": "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/items/nevermore/shadowfiend_demon_eater_large.292f663ae10cc1a345f17d801d1b523ad1288866.png",
+            "balance": 7777
+        }
     ]
 }
